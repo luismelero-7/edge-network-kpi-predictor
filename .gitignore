@@ -1,0 +1,20 @@
+# Datos (demasiado grandes para GitHub)
+dataset_builder/data/raw/
+dataset_builder/data/processed/
+
+# Modelos entrenados
+models/*.pkl
+models/*.h5
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Entorno virtual
+venv/
+
+# Sistema
+.DS_Store
+Thumbs.db
