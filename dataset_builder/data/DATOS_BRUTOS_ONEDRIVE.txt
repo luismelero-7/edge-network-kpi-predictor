@@ -1,0 +1,8 @@
+Datos brutos de simulación utilizados para construir el conjunto de datos homogéneo del TFG.
+
+Debido al tamaño de los ficheros, los datos no se incluyen directamente en este repositorio. 
+Pueden consultarse y descargarse desde el siguiente enlace de OneDrive:
+
+https://pruebasaluuclm-my.sharepoint.com/:f:/g/personal/luis_melero1_alu_uclm_es/IgBDe-GQ6kcpSqQbW0s-VlpBAZOVtiFf2Ba5mrwOCIq1GYw?e=BPHWzK
+
+Estos ficheros corresponden a las salidas originales generadas por MintEDGE y son utilizados por el script dataset_builder/build_dataset.py para construir el conjunto de datos empleado en los experimentos.

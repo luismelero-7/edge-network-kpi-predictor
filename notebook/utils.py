@@ -73,15 +73,35 @@ def indice():
     display(HTML("""
     <div style="margin:20px 0">
         <h2 style="color:#1F4E79;font-size:18px;border-bottom:2px solid #2E75B6;padding-bottom:8px">Índice</h2>
-        <ol style="color:#2E75B6;font-size:14px;line-height:2.2">
-            <li>Construcción del dataset homogéneo</li>
-            <li>Carga y configuración</li>
-            <li>Análisis exploratorio del dataset</li>
-            <li>Selección de variables y división del dataset</li>
-            <li>Modelos tabulares</li>
-            <li>Modelos secuenciales</li>
-            <li>Comparación global de modelos</li>
-            <li>Evaluación final sobre el conjunto de test</li>
-        </ol>
+        <div style="color:#2E75B6;font-size:14px;line-height:2.2">
+            <div><b>1. Construcción del dataset homogéneo</b></div>
+            <div><b>2. Carga y configuración</b></div>
+            <div><b>3. Análisis exploratorio del dataset</b></div>
+            <div><b>4. Selección de variables y división del dataset</b></div>
+            <div style="padding-left:24px">4.1 División del dataset</div>
+            <div style="padding-left:24px">4.2 Métodos de selección de variables</div>
+            <div><b>5. Modelos tabulares</b></div>
+            <div style="padding-left:24px">5.1 Configuración y entrenamiento</div>
+            <div style="padding-left:24px">5.2 Resultados sobre validación</div>
+            <div style="padding-left:24px">5.3 Ajuste de hiperparámetros</div>
+            <div style="padding-left:24px">5.4 Score y selección del mejor modelo</div>
+            <div style="padding-left:24px">5.5 Análisis del error</div>
+            <div><b>6. Modelos secuenciales</b></div>
+            <div style="padding-left:24px">6.1 Generación de secuencias</div>
+            <div style="padding-left:24px">6.2 Análisis previo y selección de configuración</div>
+            <div style="padding-left:24px">6.3 Entrenamiento completo</div>
+            <div style="padding-left:24px">6.4 Score y selección del mejor modelo</div>
+            <div style="padding-left:24px">6.5 Análisis del error</div>
+            <div><b>7. Guardado de resultados y modelos</b></div>
+            <div><b>8. Comparación global de modelos</b></div>
+            <div style="padding-left:24px">8.1 Comparativa tabular vs secuencial</div>
+            <div style="padding-left:24px">8.2 Ranking global y selección del ganador</div>
+            <div style="padding-left:24px">8.3 Persistencia de modelos ganadores</div>
+            <div><b>9. Evaluación final sobre el conjunto de test</b></div>
+            <div style="padding-left:24px">9.1 Predicción sobre test</div>
+            <div style="padding-left:24px">9.2 Comparativa validación vs test</div>
+            <div style="padding-left:24px">9.3 Análisis de importancia de variables</div>
+            <div style="padding-left:24px">9.4 Discusión de resultados</div>
+        </div>
     </div>
     """))

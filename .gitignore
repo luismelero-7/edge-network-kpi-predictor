@@ -1,10 +1,19 @@
-# Datos (demasiado grandes para GitHub)
-dataset_builder/data/raw/
-dataset_builder/data/processed/
+# Datos grandes
+dataset_builder/data/raw/*
+dataset_builder/data/processed/*
 
-# Modelos entrenados
-models/*.pkl
-models/*.h5
+# Permitir documentación/enlaces dentro de data
+!dataset_builder/data/
+!dataset_builder/data/DATOS_BRUTOS_ONEDRIVE.txt
+!dataset_builder/data/README.md
+
+# Outputs intermedios del notebook
+notebook/outputs/
+
+# Mantener outputs finales si se copian a la raíz
+!outputs/
+!outputs/results/
+!outputs/modelos/
 
 # Python
 __pycache__/
@@ -14,9 +23,27 @@ __pycache__/
 
 # Entorno virtual
 venv/
+.venv/
 
 # Sistema
 .DS_Store
 Thumbs.db
 
+# Borradores de memoria y temporales de Word
+Borrador_TFG_*
+*.docx
+*.pdf
+~$*
+~WRL*.tmp
+
+# Copias de notebooks
+notebook/*copia*.ipynb
 notebook/outputs/
+
+# Datos grandes dentro de dataset_builder
+dataset_builder/data/raw/
+dataset_builder/data/processed/
+
+# Permitir el TXT con el enlace a OneDrive
+!dataset_builder/data/
+!dataset_builder/data/DATOS_BRUTOS_ONEDRIVE.txt
