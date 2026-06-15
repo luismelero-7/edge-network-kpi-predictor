@@ -86,7 +86,7 @@ pip install -r requirements.txt
 ## Autor
 
 **Luis Melero Jareño**
-Grado en Ingeniería Informática
-Escuela Superior de Ingeniería Informática
-Universidad de Castilla-La Mancha
-Curso 2025/2026
+| Grado en Ingeniería Informática
+| Escuela Superior de Ingeniería Informática
+| Universidad de Castilla-La Mancha
+| Curso 2025/2026
