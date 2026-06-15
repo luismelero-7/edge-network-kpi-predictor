@@ -1,0 +1,8 @@
+Conjunto de datos procesado utilizado en los experimentos del TFG.
+
+Debido al tamaño de los ficheros, los datos procesados no se incluyen directamente en este repositorio.
+Pueden consultarse y descargarse desde el siguiente enlace de OneDrive:
+
+https://pruebasaluuclm-my.sharepoint.com/:f:/g/personal/luis_melero1_alu_uclm_es/IgANGwVhx-e-RI3AjE6EW3StAcckiqlONjmvELE2ADLMtYg?e=d8fEu7
+
+Estos ficheros corresponden al conjunto de datos homogéneo generado a partir de los datos brutos mediante el script dataset_builder/build_dataset.py y utilizado posteriormente en el notebook experimental.
