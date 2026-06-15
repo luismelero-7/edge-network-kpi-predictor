@@ -69,6 +69,8 @@ notebook/TFG_LuisMeleroJareno_Predictor.ipynb
 
 Este notebook incluye el flujo de experimentación seguido en el trabajo: carga del conjunto de datos, preparación de variables, selección de características, entrenamiento de modelos, evaluación en validación y prueba, comparación de modelos y generación de resultados.
 
+Debido al tamaño del archivo y a que conserva las salidas de ejecución de los experimentos, es posible que GitHub no pueda previsualizarlo correctamente desde el navegador. En ese caso, se recomienda descargarlo mediante la opción Download raw file y abrirlo localmente con Jupyter Notebook, JupyterLab o Visual Studio Code.
+
 ## Modelos y resultados
 
 Los experimentos incluyen modelos tabulares, como DecisionTree, RandomForest, XGBoost y LightGBM, y modelos secuenciales, como LSTM y CNN.
