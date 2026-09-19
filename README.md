@@ -12,8 +12,8 @@ El proyecto desarrolla y evalúa un servicio de predicción de indicadores de re
 
 | Documento | Descripción |
 |-----------|-------------|
-| [Memoria del TFG](TFG_LuisMeleroJare%C3%B1o.pdf) | Documento completo del trabajo (121 páginas) |
-| [Presentación de defensa](Presentacion_TFG_LuisMeleroJare%C3%B1o.pdf) | Presentación utilizada en la defensa |
+| Memoria del TFG | Documento completo del trabajo (121 páginas) |
+| Presentación de defensa | Presentación utilizada en la defensa oral |
 
 ---
 
